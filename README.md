@@ -25,7 +25,7 @@ That codebase is private, so it isn't here. What's here is everything I've built
 | Project | What it is | Stack |
 |---|---|---|
 | [LittleLearners](https://github.com/HarshitPandey-2021/la-english-atelier) | Enrollment platform built end to end for a paying client — 23 registered families | Next.js 14, TypeScript, Express, MongoDB |
-| [Campus Complaint Management](https://github.com/HarshitPandey-2021/Campus-Complaint-Management-System) | Complaint-lifecycle system — 5 admin roles, 30+ endpoints, transitions enforced at the API layer | MERN, JWT + OTP, Recharts |
+| [Campus Complaint Management](https://github.com/HarshitPandey-2021/ccms-test) | Complaint-lifecycle system — 5 admin roles, 30+ endpoints, transitions enforced at the API layer | MERN, JWT + OTP, Recharts |
 | [TeaTalks](https://github.com/HarshitPandey-2021/teatalks) | Anonymous campus platform with a 4-layer content moderation pipeline | Next.js 14, MongoDB |
 | [SpendWise](https://github.com/HarshitPandey-2021/SpendWise) | Full-stack expense tracker | Node, Express, SQLite |
 
