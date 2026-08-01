@@ -6,6 +6,6 @@ That codebase is private, so it isn't here. What's here is everything I've built
 
 `TypeScript` `React` `Next.js` `Node.js` `Express` `MySQL` `MongoDB` `AWS S3`
 
-Solving [Striver's A2Z sheet](https://github.com/HarshitPandey-2021/striver-a2z), one problem a morning.
+Solving [Striver's A2Z sheet](https://github.com/HarshitPandey-2021/dsa), one problem a morning.
 
 📫 pandey6051172@gmail.com · [LinkedIn](https://www.linkedin.com/in/harshitpandey-dev)
